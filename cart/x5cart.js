@@ -3,7 +3,7 @@ var x5CartData = {
 	'settings': {
 		'indexpage': 'cart/index.html',
 		'loginpage': '',
-		'continue_shopping_page': 'http://127.0.0.1/index.html',
+		'continue_shopping_page': 'https://ihor-moroz.github.io/index.html',
 		'vat': 0.21,
 		'vattype': 'included', // included|excluded|none
 		'currency': '$',

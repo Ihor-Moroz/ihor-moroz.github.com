@@ -7,8 +7,8 @@
 */
 
 $imSettings['general'] = array(
-	'url' => 'http://127.0.0.1/',
-	'homepage_url' => 'http://127.0.0.1/index.html',
+	'url' => 'https://ihor-moroz.github.io/',
+	'homepage_url' => 'https://ihor-moroz.github.io/index.html',
 	'icon' => '',
 	'version' => '14.0.3.1',
 	'sitename' => 'APS',
