@@ -1,0 +1,27 @@
+#pluginAppObj_25 .cd-headline {
+	display: block;
+	font-family: 'Comfortaa';
+	font-size: 26px;
+	line-height: 34px;
+	color: rgba(0, 48, 191, 1);
+	font-style: normal;
+	font-weight: bold;
+}
+
+#pluginAppObj_25 .cd-headline b,
+#pluginAppObj_25 .cd-headline i,
+#pluginAppObj_25 .cd-headline em {
+	
+	font-family: 'Comfortaa';
+	font-size: 26px;
+	line-height: 34px;
+	color: rgba(255, 0, 0, 1);
+	font-style: normal !important;
+	font-weight: bold;
+}
+
+/* Loading bar color */
+#pluginAppObj_25 .cd-headline.loading-bar .cd-words-wrapper::after {
+	background-color: rgba(255, 0, 0, 1);
+}
+
