@@ -60,7 +60,7 @@ var x5CartData = {
 					'pricevar': 0
 				}
 			},
-			'price': 826446.2809917,
+			'price': 82.6446281,
 			'staticAvailValue': 'available',
 			'availabilityType': 'fixed',
 			'offlineAvailableItems': 0,

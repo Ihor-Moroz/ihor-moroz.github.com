@@ -24,7 +24,7 @@ $imSettings['search']['products'] = array(
 		'description' => 'Квартира квартира квартира',
 		'category' => 'Новая категория',
 		'image' => '<img src="images/72.jpg" alt="Квартира" title="Квартира" onclick="x5engine.imShowBox({media:[{ type: \'image\', url: \'images/72.jpg\', width: 800, height: 500, description: \'Квартира квартира квартира\' }, { type: \'image\', url: \'images/49.jpg\', width: 800, height: 500, description: \'Квартира квартира квартира\' }, { type: \'image\', url: \'images/268.jpg\', width: 800, height: 500, description: \'Квартира квартира квартира\' }, { type: \'image\', url: \'images/310.jpg\', width: 800, height: 600, description: \'Квартира квартира квартира\' }]}, 0, this)" style="cursor: pointer;"/>',
-		'price' => '1000000.00 $ Налог (вклю.)'
+		'price' => '100.00 $ Налог (вклю.)'
 	)
 );
 
